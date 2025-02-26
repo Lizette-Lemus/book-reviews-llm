@@ -43,6 +43,7 @@ This will:
 - Store intermediate batch files in data/batches/
 - Merge all batches into a final ```books_data_embeddings.csv``` file
 
+See the generated embeddings [here](https://www.kaggle.com/datasets/lizettelemus/amazon-book-reviews-description-embeddings)
 ## Custom query completion
 To explore book recommendations using semantic search, open the Jupyter Notebook: ```03_query_completion.ipynb```
 
