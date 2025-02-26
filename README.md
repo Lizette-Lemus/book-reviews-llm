@@ -37,7 +37,7 @@ pip install -r requirements.txt
 Create a ```.env``` file and add your Open AI key ```OPENAI_API_KEY=your-api-key-here```
 
 ## Generate embeddings
-python ```scripts/batch_embeddings.py``` 
+Inside ```scripts``` python ```batch_embeddings.py``` 
 
 This will:
 - Store intermediate batch files in data/batches/
