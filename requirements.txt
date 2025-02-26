@@ -1,0 +1,22 @@
+openai==1.62.0
+pandas==2.2.3
+numpy==2.2.2
+scikit-learn==1.6.1  # Cosine similarity
+scipy==1.15.1  # Supports scikit-learn
+tqdm==4.67.1  # Progress tracking
+plotly==6.0.0
+python-dotenv==1.0.1  # Load API keys from .env
+tiktoken==0.8.0  # OpenAI tokenization
+requests==2.32.3  # API requests
+
+# Jupyter Dependencies
+jupyterlab==4.3.5
+notebook==7.3.2
+ipykernel==6.29.5
+ipython==8.32.0
+ipywidgets==8.1.5
+jupyter_client==8.6.3
+jupyter_core==5.7.2
+jupyterlab_widgets==3.0.13
+nbformat==5.10.4
+
